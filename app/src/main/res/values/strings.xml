@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Basketball</string>
+    <string name="lakers">Lakers</string>
+    <string name="cleveland">Cleveland</string>
+    <string name="sample_name">Sample Name</string>
+    <string name="sample_rank">sample rank</string>
+</resources>
